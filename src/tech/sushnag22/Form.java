@@ -52,15 +52,7 @@ public class Form extends javax.swing.JFrame{
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("Data Compression and Decompression using Huffman Technique");
-
-        label_canel.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        label_canel.setText("X");
-        label_canel.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                label_canelMouseClicked(evt);
-            }
-        });
+        jLabel1.setText("Data Compression and Decompression using Huffman Coding Technique");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
