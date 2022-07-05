@@ -1,5 +1,3 @@
-package tech.sushnag22;
-
 /**
  *
  * @author Sushruth Nagaraj
