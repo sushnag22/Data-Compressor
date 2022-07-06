@@ -49,7 +49,7 @@ public class Form extends javax.swing.JFrame{
         jPanel2.setBackground(new java.awt.Color(204, 204, 255));
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 13)); // NOI18N
         jLabel1.setText("Data Compression and Decompression using Huffman Coding Technique");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
@@ -112,14 +112,14 @@ public class Form extends javax.swing.JFrame{
         jScrollPane3.setViewportView(txt_encoded);
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel4.setText("Encoded Text");
+        jLabel4.setText("Compressed Text");
 
         txt_decoded.setColumns(20);
         txt_decoded.setRows(5);
         jScrollPane4.setViewportView(txt_decoded);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        jLabel5.setText("Decoded Text");
+        jLabel5.setText("Decompressed Text");
 
         label_file.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
 
