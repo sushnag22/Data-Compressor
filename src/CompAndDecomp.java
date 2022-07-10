@@ -7,11 +7,11 @@ import java.util.PriorityQueue;
  *
  * @author Sushruth Nagaraj
  */
-public class Compression {
+public class CompAndDecomp {
     private StringBuilder sb = new StringBuilder();
     private StringBuilder ds = new StringBuilder();
     private StringBuilder hc = new StringBuilder(" ");
-    Compression() {
+    CompAndDecomp() {
     }
 
     public static void encode(Node root, String str, Map<Character, String> huffmanCode) {
