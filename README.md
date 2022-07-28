@@ -22,3 +22,24 @@ Morse code can be implemented using a table lookup, where the table never change
 ## Huffman Code
 
 Huffman code determines the probabilities of each value occurring in the data set and builds a binary tree in which the search path for each value represents the code for that value. Most frequently occurring values are given shorter search paths in the tree. This tree is then converted into a table, that can be used to encode and decode the data.
+
+## Application Screenshots
+### 1. Home screen
+
+![Screenshot (1)](https://user-images.githubusercontent.com/74103829/181489631-39fe64d8-98ba-4d35-85aa-92e93168735d.png)
+
+### 2. User input in the form of text
+
+![Screenshot (2)](https://user-images.githubusercontent.com/74103829/181493206-45fda3f6-6d05-4866-a946-6ae51130668a.png)
+
+### 3. Output in the form of Huffman codes, compressed and decompressed text
+
+![Screenshot (3)](https://user-images.githubusercontent.com/74103829/181493581-628759cc-7252-4b49-890c-d2f59b85f697.png)
+
+### 4. User input in the form of file stored in the local system
+
+![Screenshot (4)](https://user-images.githubusercontent.com/74103829/181494439-f2546c13-3bef-48ce-bdbb-c767d6d10a18.png)
+
+### 5. Output in the form of Huffman codes, compressed and decompressed text
+
+![Screenshot (5)](https://user-images.githubusercontent.com/74103829/181494655-1b6103df-eced-4c29-a2dd-35ad8a31566d.png)
