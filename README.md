@@ -1,4 +1,4 @@
-# Data Compression using Huffman Coding Technique
+# Data Compression and Decompression using Huffman Coding Technique
 
 ## Data Compression
 
