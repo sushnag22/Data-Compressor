@@ -1,5 +1,11 @@
 # Data Compression and Decompression using Huffman Coding Technique
 
+## Overview
+
+A desktop application built with Java Swing which focuses mainly on compressing and decompressing text data. 
+It takes an input from the text box or from a file that contains data in the form of text and compresses it using the Huffman coding technique. 
+It also displays the Huffman codes and the decompressed text.
+
 ## Data Compression
 
 Data compression involves encoding the information in a file in such a way that it takes up less space. It basically aims to make files smaller.
