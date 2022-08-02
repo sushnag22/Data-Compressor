@@ -2,7 +2,7 @@
 
 ## Overview
 
-A desktop application built with Java Swing which focuses mainly on compressing and decompressing text data. 
+A desktop application built with Java Swing (JLabel, JPanel, JScrollPane, JTextArea, JButton, JFileChooser) using the concepts of Priority Queue, Hash Map, Map and Comparator which focuses mainly on compressing and decompressing text data. 
 It takes an input from the text box or from a file that contains data in the form of text and compresses it using the Huffman coding technique. 
 It also displays the Huffman codes and the decompressed text.
 
