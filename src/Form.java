@@ -50,7 +50,7 @@ public class Form extends javax.swing.JFrame{
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 13)); // NOI18N
-        jLabel1.setText("Data CompAndDecomp and Decompression using Huffman Coding Technique");
+        jLabel1.setText("Data Compression and Decompression using Huffman Coding Technique");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
